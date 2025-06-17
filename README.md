@@ -33,8 +33,3 @@ For the occasional professional check-in:
 [LinkedIn Profile](linkedin.com/in/nandan-natesan)
 
 ---
-
-<p align="center">
-  <strong>Red. Black. White.</strong>  
-  Like my code: minimal, direct, and slightly overclocked.
-</p>
