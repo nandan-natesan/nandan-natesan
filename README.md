@@ -9,9 +9,9 @@
 
 ## About
 
-Currently deep in robotics, systems, and embedded tech.  
+Currently deep in figuring out what these mean: perception,navigation and sensor fusion.  
 I spend more time with terminals than touchscreens.  
-To me, `git push` is just another form of self-expression.
+<!--To me, `git push` is just another form of self-expression. -->
 
 ---
 
@@ -30,7 +30,7 @@ To me, `git push` is just another form of self-expression.
 ## Connect
 
 For the occasional professional check-in:  
-👉 [LinkedIn](https://www.linkedin.in/nandan-natesan)
+[LinkedIn Profile](linkedin.com/in/nandan-natesan)
 
 ---
 
