@@ -30,6 +30,6 @@ I spend more time with terminals than touchscreens.
 ## Connect
 
 For the occasional professional check-in:  
-[LinkedIn Profile](linkedin.com/in/nandan-natesan)
+[LinkedIn Profile](https://www.linkedin.com/in/nandan-natesan)
 
 ---
