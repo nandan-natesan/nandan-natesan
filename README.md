@@ -9,9 +9,8 @@
 
 ## About
 
-Currently deep in figuring out what these mean: perception,navigation and sensor fusion.  
+Currently deep in figuring out what these mean: perception,end to end autonomoy and sensor fusion.  
 I spend more time with terminals than touchscreens.  
-<!--To me, `git push` is just another form of self-expression. -->
 
 ---
 
