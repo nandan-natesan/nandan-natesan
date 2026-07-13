@@ -9,7 +9,7 @@
 
 ## About
 
-Currently deep in figuring out what these mean: perception, end to end Autonomy and sensor fusion.  
+Currently figuring out what these mean: perception, end to end Autonomy and sensor fusion.  
 I spend more time with terminals than touchscreens.  
 
 ---
